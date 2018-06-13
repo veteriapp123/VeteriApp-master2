@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navigation_home" type="id">nevigation</item>
+    <item name="navigation_dashboard" type="id">dasbohard</item>
+    <item name="navigation_notifications" type="id">notifi</item>
+</resources>
